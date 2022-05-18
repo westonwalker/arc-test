@@ -1,0 +1,14 @@
+{
+  "name": "arc-test",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.3.3"
+  },
+  "dependencies": {
+    "@architect/functions": "^5.1.0"
+  }
+}
